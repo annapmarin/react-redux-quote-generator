@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-redux-quote-generator/static/css/main.2613d870.css",
+    "main.js": "/react-redux-quote-generator/static/js/main.1aeea23b.js",
+    "static/js/787.1fee1fb8.chunk.js": "/react-redux-quote-generator/static/js/787.1fee1fb8.chunk.js",
+    "static/media/loading-loading-forever.gif": "/react-redux-quote-generator/static/media/loading-loading-forever.1952935ed80fba5926fe.gif",
+    "static/media/twittericon.svg": "/react-redux-quote-generator/static/media/twittericon.3ad378b670f3a841418e53be5b4818e5.svg",
+    "index.html": "/react-redux-quote-generator/index.html",
+    "main.2613d870.css.map": "/react-redux-quote-generator/static/css/main.2613d870.css.map",
+    "main.1aeea23b.js.map": "/react-redux-quote-generator/static/js/main.1aeea23b.js.map",
+    "787.1fee1fb8.chunk.js.map": "/react-redux-quote-generator/static/js/787.1fee1fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2613d870.css",
+    "static/js/main.1aeea23b.js"
+  ]
+}
